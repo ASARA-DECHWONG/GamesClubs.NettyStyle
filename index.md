@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+#### ♣️'Welcome to | Club of Gaming'♣️
+#### `Netty@Channels` ♣️ "Welcome to...
 
 You can use the [editor on GitHub](https://github.com/nettydechwongasara/GamesClubs.NettyStyle/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
